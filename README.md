@@ -1,8 +1,8 @@
 # Temp Bace Website
 
 Quickie website design
-Looks like: http://www.snowyla.com/bace/web1/
 
+* See what it looks like [here](http://romyilano.github.io/BaceWebSite1/)
 
 see main repo: 
 http://github.com/sudoroom/BACE-TimeBank
